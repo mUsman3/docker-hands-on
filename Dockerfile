@@ -14,5 +14,3 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 EXPOSE 8000
 
 CMD python -c "print('hello world')"
-
-#https://www.codingforentrepreneurs.com/blog/simple-docker
